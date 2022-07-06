@@ -1,0 +1,20 @@
+.bg-red {
+    background-color: red;
+    width: 10em;
+    padding: 2em;
+    border-radius: 2em;
+    margin-bottom: 2em;
+}
+
+.color-black {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+/* .white {
+    color: white;
+} */
